@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "skills": {
+    "self-improving": {
+      "version": "1.2.16",
+      "installedAt": 1773400036306
+    },
+    "ontology": {
+      "version": "1.0.4",
+      "installedAt": 1773400645489
+    },
+    "proactive-agent": {
+      "version": "3.1.0",
+      "installedAt": 1773400657719
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1773400669379
+    },
+    "humanizer": {
+      "version": "1.0.0",
+      "installedAt": 1773400675185
+    },
+    "auto-updater": {
+      "version": "1.0.0",
+      "installedAt": 1773400684297
+    },
+    "openclaw-youtube-transcript": {
+      "version": "1.0.1",
+      "installedAt": 1773400702943
+    },
+    "elite-longterm-memory": {
+      "version": "1.2.3",
+      "installedAt": 1773400725106
+    },
+    "browser-use": {
+      "version": "1.0.2",
+      "installedAt": 1773404035313
+    },
+    "google-analytics": {
+      "version": "1.0.10",
+      "installedAt": 1773407936189
+    },
+    "ui-ux-design": {
+      "version": "1.0.0",
+      "installedAt": 1773407955288
+    },
+    "superdesign": {
+      "version": "1.0.0",
+      "installedAt": 1773407974161
+    },
+    "openclaw-tavily-search": {
+      "version": "0.1.0",
+      "installedAt": 1773407983474
+    },
+    "openviking": {
+      "version": "1.0.3",
+      "installedAt": 1773408168951
+    },
+    "screenshot": {
+      "version": "1.0.1",
+      "installedAt": 1773410457803
+    },
+    "webpage-screenshot": {
+      "version": "1.0.0",
+      "installedAt": 1773410481489
+    }
+  }
+}
